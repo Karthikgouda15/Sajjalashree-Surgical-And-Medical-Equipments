@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "Surgical Grade Scalpel Set",
+    "category": "Surgical Instruments",
+    "description": "Premium stainless steel scalpel set with ergonomic handles for precision surgery.",
+    "price": "Contact for Price",
+    "image": "/images/scalpel-set.png",
+    "features": ["High-grade stainless steel", "Sterile packaging", "Ergonomic design"]
+  },
+  {
+    "id": 2,
+    "name": "Digital Patient Monitor",
+    "category": "Diagnostic Devices",
+    "description": "Multi-parameter patient monitor with high-resolution display for real-time tracking.",
+    "price": "Contact for Price",
+    "image": "/images/patient-monitor.png",
+    "features": ["NIBP, SpO2, ECG, Temp", "12.1-inch LED display", "Rechargeable battery"]
+  },
+  {
+    "id": 3,
+    "name": "Hydraulic Hospital Bed",
+    "category": "Hospital Equipment",
+    "description": "Adjustable hydraulic bed with side rails and high-density mattress for patient comfort.",
+    "price": "Contact for Price",
+    "image": "/images/hospital-bed.png",
+    "features": ["Height adjustable", "Trendelenburg position", "Heavy-duty casters"]
+  },
+  {
+    "id": 4,
+    "name": "Clinical Centrifuge",
+    "category": "Laboratory Equipment",
+    "description": "High-speed centrifuge for blood and urine sample processing in clinical labs.",
+    "price": "Contact for Price",
+    "image": "https://images.unsplash.com/photo-1579152276507-2442233d5ffb?q=80&w=800",
+    "features": ["Brushless motor", "Digital timer", "Safety lid lock"]
+  },
+  {
+    "id": 5,
+    "name": "Orthopedic Power Drill",
+    "category": "Surgical Instruments",
+    "description": "Surgical power tool for orthopedic procedures, autoclavable and high-torque.",
+    "price": "Contact for Price",
+    "image": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?q=80&w=800",
+    "features": ["Variable speed", "Rechargeable", "Water-resistant"]
+  },
+  {
+    "id": 6,
+    "name": "Portable Ultrasound Machine",
+    "category": "Diagnostic Devices",
+    "description": "Compact ultrasound system with high-frequency probes for versatile imaging.",
+    "price": "Contact for Price",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?q=80&w=800",
+    "features": ["Multi-beam imaging", "Lightweight design", "Long battery life"]
+  },
+  {
+    "id": 7,
+    "name": "Blood Glucose Monitor (BGM)",
+    "category": "Medical Equipment Hire",
+    "isRental": true,
+    "description": "Professional-grade blood glucose monitoring system available for weekly or monthly hire.",
+    "price": "From ₹500 / week",
+    "image": "https://images.unsplash.com/photo-1631549916768-4119b295f776?q=80&w=800",
+    "features": ["Instant readings", "Data memory", "Testing strips included"]
+  },
+  {
+    "id": 8,
+    "name": "Muscle Stimulator (EMS/TENS)",
+    "category": "Medical Equipment Hire",
+    "isRental": true,
+    "description": "Advanced electrical muscle stimulation device for physiotherapy and pain management.",
+    "price": "From ₹1,200 / month",
+    "image": "https://images.unsplash.com/photo-1620188467120-0b7a6614532a?q=80&w=800",
+    "features": ["Multiple modes", "Rechargeable", "Adjustable intensity"]
+  },
+  {
+    "id": 9,
+    "name": "Lymphedema Compression Pump",
+    "category": "Medical Equipment Hire",
+    "isRental": true,
+    "description": "Specialized sequential compression device for managing lymphedema and venous disorders.",
+    "price": "Contact for Hire Rate",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=800",
+    "features": ["Adjustable pressure", "Includes sleeves", "Whisper-quiet operation"]
+  },
+  {
+    "id": 10,
+    "name": "Heart-Lung Machine Spare Parts",
+    "category": "Specialized Repair",
+    "description": "Certified replacement components and sensors for cardiopulmonary bypass machines.",
+    "price": "Inquire for Availability",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?q=80&w=800",
+    "features": ["OEM Certified", "Safety Tested", "Priority Shipping"]
+  }
+]
