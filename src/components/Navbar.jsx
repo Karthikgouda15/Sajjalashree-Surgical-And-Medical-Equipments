@@ -34,7 +34,7 @@ const Navbar = () => {
             <div className="w-10 h-10 medical-gradient rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg">
               S
             </div>
-            <div className="hidden md:block">
+            <div>
               <span className={`text-xl font-bold tracking-tight ${scrolled || isDark ? 'text-slate-900 dark:text-white' : 'text-slate-900'}`}>
                 Sajjalashree
               </span>
